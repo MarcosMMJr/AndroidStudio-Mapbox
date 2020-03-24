@@ -1,0 +1,2 @@
+rootProject.name='FacilitaTech_v0.35'
+include ':app'
